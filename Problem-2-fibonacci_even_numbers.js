@@ -17,5 +17,5 @@ function fibo(n){
     return total;
 }
 
-fibo(10);
+fibo(20);
 
